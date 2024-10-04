@@ -1,1 +1,1 @@
-# gym-web-app
+# Typescript React Fitness Application
